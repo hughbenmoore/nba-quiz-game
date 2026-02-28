@@ -101,7 +101,7 @@ const players = [
 		]
 	},
 	{
-		answer: "Lu Williams",
+		answer: "Lou Williams",
 		hints: [
 			"Drake has used my name in a song before... Quite catchy.",
 			"I scored 40 points in back to back G-leagues and never returned.",
